@@ -4,7 +4,7 @@ This script automates the installation and uninstallation of **Cisco Packet Trac
 
 ## Prerequisites ⚙️
 
-1. **openSUSE Linux** (tested on slowroll edition and later).
+1. **openSUSE Linux** (tested on openSUSE Tumbleweed-Slowroll).
 2. The **Cisco Packet Tracer `.deb` installer** file should be placed in your **`/home`** directory.
 
 ## Installation Steps 🛠️
