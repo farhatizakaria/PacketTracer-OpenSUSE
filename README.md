@@ -28,6 +28,10 @@ git clone https://github.com/yourusername/packet-tracer-install-script.git
 
 ### 3. Run the Script ▶️
 
+Install binutils
+```bash
+sudo zypper install binutils
+```
 Now, you can run the script. This will automatically install Cisco Packet Tracer by:
 
 - Searching for the .deb installer in the /home directory.
