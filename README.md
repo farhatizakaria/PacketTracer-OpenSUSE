@@ -23,7 +23,7 @@ Make sure the `.deb` file is saved to your **`/home`** directory.
 Clone this repository or download the script directly to your system:
 
 ```bash
-git clone https://github.com/yourusername/packet-tracer-install-script.git
+git clone https://github.com/farhatizakaria/PacketTracer-OpenSUSE.git
 ```
 
 ### 3. Run the Script ▶️
